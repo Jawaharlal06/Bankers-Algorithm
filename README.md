@@ -5,5 +5,5 @@ User can also try to change constraints like initial resources, allocated or max
 
 ## Output
 <center>
-  <img src="images/output.png" align="center">
+  <img src="https://github.com/Jawaharlal06/Bankers-Algorithm/blob/main/output.png">
 </center>
